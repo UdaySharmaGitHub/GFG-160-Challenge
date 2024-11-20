@@ -1,5 +1,4 @@
 # GfG 160 - 160 Days of Problem Solving
----
 ## ***Arrays***
 - [***Day 1 - Second Largest***](./Arrays/Day1_Second_Largest.cpp)
 - [***Day 2 - Move All Zeroes to End***](./Arrays/Day2_Move_All_Zeroes_to_End.cpp)
