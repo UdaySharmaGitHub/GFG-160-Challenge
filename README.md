@@ -6,3 +6,4 @@
 - [***Day 4 - Rotate Array***](./Arrays/Day4_Rotate_Array.cpp)
 - [***Day 5 - Next Permutation***](./Arrays/Day5_Next_Permutation.cpp)
 - [***Day 6 - Majority Element II***](./Arrays/Day6_Majority_Element_II.cpp)
+- [***Day 7 - Stock Buy and Sell – Multiple Transaction Allowed***](./Arrays/Day7_Stock_Buy_and_Sell_Multiple_Transaction_Allowed.cpp)
