@@ -7,3 +7,4 @@
 - [***Day 5 - Next Permutation***](./Arrays/Day5_Next_Permutation.cpp)
 - [***Day 6 - Majority Element II***](./Arrays/Day6_Majority_Element_II.cpp)
 - [***Day 7 - Stock Buy and Sell – Multiple Transaction Allowed***](./Arrays/Day7_Stock_Buy_and_Sell_Multiple_Transaction_Allowed.cpp)
+- [***Day 8 - Stock Buy and Sell – Max one Transaction Allowed***](./Arrays/Day8_Stock_Buy_and_Sell_Max_one_Transaction_Allowed.cpp)
