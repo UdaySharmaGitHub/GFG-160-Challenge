@@ -10,3 +10,4 @@
 - [***Day 8 - Stock Buy and Sell – Max one Transaction Allowed***](./Arrays/Day8_Stock_Buy_and_Sell_Max_one_Transaction_Allowed.cpp)
 - [***Day 9 - Minimize the Heights II***](./Arrays/Day9_Minimize_the_Heights_II.cpp)
 - [***Day 10 - Kadane's Algorithm***](./Arrays/Day10_Kadane_s_Algorithm.cpp)
+- [***Day 11 - Maximum Product Subarray***](./Arrays/Day11_Maximum_Product_Subarray.cpp)
