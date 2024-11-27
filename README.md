@@ -12,3 +12,4 @@
 - [***Day 10 - Kadane's Algorithm***](./Arrays/Day10_Kadane_s_Algorithm.cpp)
 - [***Day 11 - Maximum Product Subarray***](./Arrays/Day11_Maximum_Product_Subarray.cpp)
 - [***Day 12 - Max Circular Subarray Sum***](./Arrays/Day12_Max_Circular_Subarray_Sum.cpp)
+- [***Day 13 - Smallest Positive Missing Number***](./Arrays/Day13_Smallest_Positive_Missing_Number.cpp)
