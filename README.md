@@ -16,3 +16,4 @@
 
 ## ***String***
 - [***Day 14 - Implement Atoi***](./String/Day14_Implement_Atoi.cpp)
+- [***Day 15 - Add Binary Strings***](./String/Day15_Add_Binary_Strings.cpp)
