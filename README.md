@@ -21,3 +21,4 @@
 - [***Day 17 - Non Repeating Character***](./String/Day17_Non_Repeating_Character.cpp)
 - [***Day 18 - Search Pattern (KMP-Algorithm)***](./String/Day18_Search_Pattern_KMP_Algorithm.cpp)
 - [***Day 19 - Min Chars to Add for Palindrome***](./String/Day19_Min_Chars_to_Add_for_Palindrome.cpp)
+- [***Day 20 - Strings Rotations of Each Other***](./String/Day20_Strings_Rotations_of_Each_Other.cpp)
