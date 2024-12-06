@@ -25,3 +25,4 @@
 
 ## ***Sorting***
 - [***Day 21 - Sort 0s, 1s and 2s***](./Sorting/Day21_Sort_0s_1s_and_2s.cpp)
+- [***Day 22 - Find H-Index***](./Sorting/Day22_Find_H_Index.cpp)
