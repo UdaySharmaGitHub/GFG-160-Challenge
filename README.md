@@ -26,3 +26,7 @@
 ## ***Sorting***
 - [***Day 21 - Sort 0s, 1s and 2s***](./Sorting/Day21_Sort_0s_1s_and_2s.cpp)
 - [***Day 22 - Find H-Index***](./Sorting/Day22_Find_H_Index.cpp)
+- [***Day 23 - Count Inversions***](./Sorting/Day23_Count_Inversions.cpp)
+- [***Day 24 - Overlapping Intervals***](./Sorting/Day24_Overlapping_Intervals.cpp)
+- [***Day 25 - Insert Interval***](./Sorting/Day25_Insert%20Interval.cpp)
+- [***Day 26 - Non-overlapping Intervals***](./Sorting/Day26_Non_overlapping_Intervals.cpp)
