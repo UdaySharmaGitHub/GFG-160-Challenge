@@ -30,3 +30,11 @@
 - [***Day 24 - Overlapping Intervals***](./Sorting/Day24_Overlapping_Intervals.cpp)
 - [***Day 25 - Insert Interval***](./Sorting/Day25_Insert%20Interval.cpp)
 - [***Day 26 - Non-overlapping Intervals***](./Sorting/Day26_Non_overlapping_Intervals.cpp)
+- [***Day 27 - Merge Without Extra Space***](./Sorting/Day27_Merge_Without_Extra_Space.cpp)
+
+## ***Searching***
+- [***Day 28 - Number of occurrence***](./Searching/Day28_Number_of_occurrence.cpp)
+- [***Day 29 - Sorted and Rotated Minimum***](./Searching/Day29_Sorted_and_Rotated_Minimum.cpp)
+- [***Day 30 - Search in Rotated Sorted Array***](./Searching/Day30_Search_in_Rotated_Sorted_Array.cpp)
+- [***Day 31 - Peak element***](./Searching/Day31_Peak_element.cpp)
+
