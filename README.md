@@ -37,4 +37,8 @@
 - [***Day 29 - Sorted and Rotated Minimum***](./Searching/Day29_Sorted_and_Rotated_Minimum.cpp)
 - [***Day 30 - Search in Rotated Sorted Array***](./Searching/Day30_Search_in_Rotated_Sorted_Array.cpp)
 - [***Day 31 - Peak element***](./Searching/Day31_Peak_element.cpp)
+- [***Day 32 - K-th element of two Arrays***](./Searching/Day32_Kth_element_of_two_Arrays.cpp)
+- [***Day 33 - Aggressive Cows***](./Searching/Day33_Aggressive_Cows.cpp)
+- [***Day 34 - Allocate Minimum Pages***](./Searching/Day34_Allocate_Minimum_Pages.cpp)
+- [***Day 35 - Kth Missing Positive Number in a Sorted Array***](./Searching/Day35_Kth_Missing_Positive_Number_in_a_Sorted_Array.cpp)
 
