@@ -42,3 +42,5 @@
 - [***Day 34 - Allocate Minimum Pages***](./Searching/Day34_Allocate_Minimum_Pages.cpp)
 - [***Day 35 - Kth Missing Positive Number in a Sorted Array***](./Searching/Day35_Kth_Missing_Positive_Number_in_a_Sorted_Array.cpp)
 
+## ***Matrix***
+- [***Day 36 - Spirally traversing a matrix***](./Matrix/Day36_Spirally_traversing_a_matrix.cpp)
