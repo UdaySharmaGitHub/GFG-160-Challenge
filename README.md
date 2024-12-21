@@ -44,3 +44,4 @@
 
 ## ***Matrix***
 - [***Day 36 - Spirally traversing a matrix***](./Matrix/Day36_Spirally_traversing_a_matrix.cpp)
+- [***Day 37 - Rotate by 90 degree***](./Matrix/Day37_Rotate_by_90_degree.cpp)
