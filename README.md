@@ -46,3 +46,4 @@
 - [***Day 36 - Spirally traversing a matrix***](./Matrix/Day36_Spirally_traversing_a_matrix.cpp)
 - [***Day 37 - Rotate by 90 degree***](./Matrix/Day37_Rotate_by_90_degree.cpp)
 - [***Day 38 - Search in a Row-Column sorted matrix***](./Matrix/Day38_Search_in_a_Row_Column_sorted_matrix.cpp)
+- [***Day 39 - Search in a row-wise sorted matrix***](./Matrix/Day39_Search_in_a_row_wise_sorted_matrix.cpp)
