@@ -49,3 +49,7 @@
 - [***Day 39 - Search in a row-wise sorted matrix***](./Matrix/Day39_Search_in_a_row_wise_sorted_matrix.cpp)
 - [***Day 40 - Search in a sorted Matrix***](./Matrix/Day40_Search_in_a_sorted_Matrix.cpp)
 - [***Day 41 - Set Matrix Zeroes***](./Matrix/Day41_Set_Matrix_Zeroes.cpp)
+
+## ***Matrix***
+- [***Day 42 - Two Sum - Pair with Given Sum***](./Hashing/Day42_Two_Sum_Pair_with_Given_Sum.cpp)
+
