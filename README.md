@@ -54,4 +54,5 @@
 - [***Day 42 - Two Sum - Pair with Given Sum***](./Hashing/Day42_Two_Sum_Pair_with_Given_Sum.cpp)
 - [***Day 43 - Count pairs with given sum***](./Hashing/Day43_Count_pairs_with_given_sum.cpp)
 - [***Day 44 - Find All Triplets with Zero Sum***](./Hashing/Day44_Find_All_Triplets_with_Zero_Sum.cpp)
+- [***Day 45 - Intersection of Two arrays with Duplicate Elements***](./Hashing/Day45_Intersection_of_Two_arrays_with_Duplicate_Elements.cpp)
 
