@@ -55,4 +55,6 @@
 - [***Day 43 - Count pairs with given sum***](./Hashing/Day43_Count_pairs_with_given_sum.cpp)
 - [***Day 44 - Find All Triplets with Zero Sum***](./Hashing/Day44_Find_All_Triplets_with_Zero_Sum.cpp)
 - [***Day 45 - Intersection of Two arrays with Duplicate Elements***](./Hashing/Day45_Intersection_of_Two_arrays_with_Duplicate_Elements.cpp)
+- [***Day 46 - Union of Arrays with Duplicates***](./Hashing/Day46_Union_of_Arrays_with_Duplicates.cpp)
+- [***Day 47 - Longest Consecutive Subsequence***](./Hashing/Day47_Longest_Consecutive_Subsequence.cpp)
 
