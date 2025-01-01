@@ -57,4 +57,5 @@
 - [***Day 45 - Intersection of Two arrays with Duplicate Elements***](./Hashing/Day45_Intersection_of_Two_arrays_with_Duplicate_Elements.cpp)
 - [***Day 46 - Union of Arrays with Duplicates***](./Hashing/Day46_Union_of_Arrays_with_Duplicates.cpp)
 - [***Day 47 - Longest Consecutive Subsequence***](./Hashing/Day47_Longest_Consecutive_Subsequence.cpp)
+- [***Day 48 - Print Anagrams Together***](./Hashing/Day48_Print_Anagrams_Together.cpp)
 
