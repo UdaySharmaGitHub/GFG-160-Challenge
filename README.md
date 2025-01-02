@@ -58,4 +58,5 @@
 - [***Day 46 - Union of Arrays with Duplicates***](./Hashing/Day46_Union_of_Arrays_with_Duplicates.cpp)
 - [***Day 47 - Longest Consecutive Subsequence***](./Hashing/Day47_Longest_Consecutive_Subsequence.cpp)
 - [***Day 48 - Print Anagrams Together***](./Hashing/Day48_Print_Anagrams_Together.cpp)
+- [***Day 49 - Subarrays with sum K***](./Hashing/Day49_Subarrays_with_sum_K.cpp)
 
